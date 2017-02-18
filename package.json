@@ -1,0 +1,18 @@
+{
+  "name": "mac-js-dev-setup",
+  "version": "0.1.0",
+  "description": "A very opinionated script to setup my JavaScript developer environment on a new Mac.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "mac",
+    "dev",
+    "environmnet",
+    "setup"
+  ],
+  "author": "JP Erasmus <jperasmus11@gmail.com>",
+  "license": "ISC"
+}
